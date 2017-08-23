@@ -1,0 +1,47 @@
+/*************************** to-do app styles ***************************/
+* {
+	margin: 0;
+}
+html, body {
+	height: 100%;
+	background-color: #ffffff;
+}
+.clr {
+	clear: both;
+}
+
+/* Front screen specific */
+.container {
+	width: 90%;
+	margin: 30px auto;
+	font-family: calibri;
+}
+.todoContainer {
+	width: 70%;
+	margin: 15px auto;
+	text-align: center;
+}
+.todoContainer h1 {
+	color: #607D8B;
+	margin-bottom: 30px;
+}
+.errorMessage {
+	font-weight: bold;
+	color: red;
+	margin-bottom: 5px;
+}
+.inputItemRow {
+	margin-bottom: 15px;
+}
+.inputItemRow input {
+
+}
+.inputItemRow button {
+
+}
+.submitButton {
+
+}
+.listContainer {
+
+}
